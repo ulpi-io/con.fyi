@@ -7,6 +7,7 @@ Static, public-facing legal and product-information pages for Open Growth Group 
 ```text
 assets/
   brand/
+    confyi-lockup.png
     confyi-post-lockup.png
   site.css
 con-fyi-post/
